@@ -1,4 +1,4 @@
-# BlockchainCryptoSmartContracts
+# Mechanics of Blockchain - Blockchain Cryptocurrencies SmartContracts
 
 Course assignements for CS5431 Blockchains, Cryptocurrencies, and Smart Contracts taugh by Ari Juels at Cornell Tech. 
 

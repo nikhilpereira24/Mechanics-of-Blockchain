@@ -22,6 +22,8 @@ Explored a hash-based signature scheme to sign and verify messages. KeyGen, Sign
 
 Files: signature.py and test.py
 
+![image](https://user-images.githubusercontent.com/89815451/164126321-e8b1f990-e369-4506-a167-5109558b7ef9.png)
+
 ## Homework 2 
 
 Q1. Signatures, Hashing, Sealing
@@ -41,6 +43,9 @@ Explored and implemented a P2P network to broadcast blockchain information over 
 
 Files: gossip.py
 
+![image](https://user-images.githubusercontent.com/89815451/164126419-9aa9558d-0783-470f-90a5-45050499c258.png)
+
+
 ## Homework 3
 
 Q1. Tokens and Simple Smart Contracts
@@ -58,6 +63,9 @@ Files: winBattle.sol
 Q3. Anonymity with Tumblers and Mixers?
 
 Deanonymized users on the BTC network by mapping inputs to outputs from a mixing service. Discussed the cons with mixing services in cryptocurrencies.
+
+![image](https://user-images.githubusercontent.com/89815451/164126456-c6e06dfe-6369-4546-8d36-1f7ddb8dfe96.png)
+
 
 
 
